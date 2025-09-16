@@ -1,0 +1,61 @@
+{
+  "category": "workflow-engines",
+  "created_date": "2025-09-15T22:48:57.448026",
+  "default_ports": [
+    80,
+    443,
+    65432
+  ],
+  "dependencies": [],
+  "description": "digdag is a free and open-source workflow engine. Digdag provides simple workflow engine for multi-cloud",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/workflow-engines/digdag",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/workflow-engines/digdag",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:57.448043",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "digdag",
+  "repository_url": "https://github.com/howtomgr/digdag",
+  "spec_version": "2.0",
+  "subcategory": "workflow-engines",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "workflow-engines",
+    "containerization",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection"
+  ],
+  "title": "digdag Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/workflow-engines/digdag"
+}
